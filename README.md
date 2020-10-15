@@ -1,6 +1,7 @@
 <!-- PROJECT SHIELDS -->
 [![Xcode][xcode-shield]][xcode-url]
 [![Swift][swift-shield]][swift-url]
+[![MIT License][license-shield]][license-url]
 
 
 <!-- PROJECT LOGO -->
@@ -77,7 +78,6 @@ xed .
 
 <!-- Demo -->
 ## Demo
-
 ![Demo][product-demo]
 
 
