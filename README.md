@@ -18,7 +18,7 @@
     <a href="https://github.com/DM1TRYM/ToDo-Firebase"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/peterfriese/MakeItSo#Demo">View Demo</a>
+    <a href="https://github.com/DM1TRYM/ToDo-Firebase#Demo">View Demo</a>
   </p>
 </p>
 
