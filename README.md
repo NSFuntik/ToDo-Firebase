@@ -109,6 +109,6 @@ The application is created by article "[Replicating the iOS Reminders App, Part 
 [license-shield]: https://img.shields.io/github/license/DM1TRYM/ToDo-Firebase.svg?style%3Dflat-square
 [license-url]: https://github.com/DM1TRYM/ToDo-Firebase/blob/main/LICENSE
 
-[product-screenshot]: assets/screenshot.png
+[product-screenshot]: /screenshot.png
 [product-demo]: https://github.com/DM1TRYM/ToDo-Firebase/blob/main/Demo.gif?raw=true
-[product-screenshot]: assets/screenshot.png "Screenshot of Make It So, a replication of the iOS Reminders app"
+[product-screenshot]: /screenshot.png "Screenshot of Make It So, a replication of the iOS Reminders app"
