@@ -6,6 +6,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
+  <a href="https://github.com/DM1TRYM/ToDo-Firebase">
+    <img src="ToDoList/ToDoIcon.png" alt="Logo">
+  </a>
 
   <h3 align="center">ToDo Firebase App</h3>
 
